@@ -1,1 +1,1 @@
-# Biometric Attendance Sync Tool For ZK Techo Device
+# Zafar: Biometric Attendance Sync Tool For ZK Techo Device
